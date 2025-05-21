@@ -25,5 +25,4 @@ Częścią projektu była **analiza wpływu poszczególnych zmiennych na skutecz
 
 🔍 Dzięki temu udało się określić, które zmienne są **kluczowe**, a które mają **niewielki wpływ** lub wręcz wprowadzają szum.
 
-## 🧩 Struktura projektu
 
